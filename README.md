@@ -1,16 +1,14 @@
-### Hi there 👋
+# :man_technologist: Vinicius Moda
 
-<!--
-**Viniciusmoda/Viniciusmoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/willzwayn)](https://github.com/Viniciusmoda)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/WillzWayn/)](https://www.linkedin.com/in//vinicius-moda/)
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willzwayn@gmail.com)](mailto:vinicius.santiagomoda@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Viniciusmoda&show_icons=true&hide_border=true)
+
+
+---
